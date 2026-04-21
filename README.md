@@ -5,7 +5,7 @@
 - Circuit visible on the back for explanation
 - Compatibility of hands with certain other toys of Danish design
 
-<img src="images/roborobin_front.png" width=300px alt="Robo Robin Front"> <img src="images/roborobin_back.png" width=300px alt="Robo Robin Back">
+<img src="images/roborobin_front.jpg" width=300px alt="Robo Robin Front"> <img src="images/roborobin_back.jpg" width=300px alt="Robo Robin Back">
 
 - Status: **Complete**
 - Difficulty: **1/5**
@@ -27,8 +27,8 @@ There is also a special clamp brick for Robo robin to use in your constructions 
 
 ### Copyright and Authorship
 
-- Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Timo from blinkyparts.com](https://shop.blinkyparts.com)
+- Board: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - [Timo from blinkyparts.com](https://shop.blinkyparts.com)
 - Robot SVG [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Robot by iconcheese from thenounproject.com](https://thenounproject.com/icon/robot-1159392/) (We bought a licence, you should also honour the author.)
 
 ### Buy Soldering Kits
-If you want to buy the parts and PCB for a soldering kit you can find everything here: [shop.blinkyparts.com](https://shop.blinkyparts.com/)
+If you want to buy the parts and PCB for a soldering kit you can find everything here: [shop.blinkyparts.com](https://shop.blinkyparts.com/de/Robo-Robin-Loetbausatz-Der-sehr-einfache-lustig-rote-Roboterbausatz/blink239442)
